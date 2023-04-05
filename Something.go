@@ -7,5 +7,5 @@ import (
 
 func DoSomething() {
 	Sample.ExampleWrite()
-	fmt.Print("Doing Some Work")
+	fmt.Println("Doing Some Work")
 }
